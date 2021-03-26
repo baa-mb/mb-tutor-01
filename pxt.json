@@ -9,7 +9,8 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "Turorial-Basic.ts"
     ],
     "testFiles": [
         "test.ts"
