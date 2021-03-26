@@ -9,7 +9,7 @@
     "files": [
         "main.ts",
         "README.md",
-        "Turorial-Basic.ts"
+        "tutorial-basic.md"
     ],
     "testFiles": [
         "test.ts"
