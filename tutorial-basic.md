@@ -12,11 +12,16 @@ During an interaction, the step description (all text before the first code bloc
         console.log("alois")
     }
 ``` 
-![Agent building a tower](/static/bild.png)
 
 
 ## Step 2
 # Anleitung
 
 Sehr gut!
-    
+
+
+## Introduction @unplugged
+
+Have the agent build a tower! Make a command to tell it how many levels to build.
+
+![Agent building a tower](/static/tutorials/bild.png)
