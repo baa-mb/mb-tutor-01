@@ -2,15 +2,15 @@
 
 
 ## Step 1 @unplugged
+Mit diesem Kurs lernst du, wie du Microbit entdecken kannst!
 
-Mit diesem Kurs lernst du, wie du Microbit entdecjen kannst
+``` blocks
 
-```` blocks
-
+```
 
 
 
 ## Step 2
 
-Congratulations, you did it!
+Serh gut!
     
