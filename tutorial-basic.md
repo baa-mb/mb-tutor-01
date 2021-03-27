@@ -7,7 +7,7 @@ Let's get real bright. We're going to make all the lights flash on your board!
 
 
 ## Make a new variable 
-# Erste Zeile
+# Erste Zeile @showdialog
 ![Agent building a tower](/static/bild.png)
 //@unplugged
 Mit diesem Kurs lernst du, wie du Microbit entdecken kannst!
