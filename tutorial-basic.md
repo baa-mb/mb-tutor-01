@@ -1,7 +1,7 @@
 # tutorial-basic
 
 
-## Step 1: Make a new variable 
+## Make a new variable 
 # Erste Zeile
 ![Agent building a tower](/static/bild.png)
 //@unplugged
