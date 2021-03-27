@@ -10,6 +10,12 @@ Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
 * klicke auf **Erweiterungen** unter dem Zahnrad-Menü
 * nach **https://github.com/baa-mb/mb-tutor-01** suchen und importieren
 
+
+## Tutorials
+* [tutoial] (/mb-tutor-01/tutorial-basic)
+
+
+
 ## Dieses Projekt bearbeiten ![Build Status Abzeichen](https://github.com/baa-mb/mb-tutor-01/workflows/MakeCode/badge.svg)
 
 Um dieses Repository in MakeCode zu bearbeiten.
