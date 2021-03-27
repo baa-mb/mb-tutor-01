@@ -14,8 +14,6 @@ Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
 ## Tutorials
 * [tutorial] (/mb-tutor-01/tutorial-basic)
 
-
-
 ## Dieses Projekt bearbeiten ![Build Status Abzeichen](https://github.com/baa-mb/mb-tutor-01/workflows/MakeCode/badge.svg)
 
 Um dieses Repository in MakeCode zu bearbeiten.
