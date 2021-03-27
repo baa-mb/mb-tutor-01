@@ -1,6 +1,11 @@
 # tutorial-basic
 
 
+## It's time to code! @showhint
+# Überschrift
+Let's get real bright. We're going to make all the lights flash on your board!
+
+
 ## Make a new variable 
 # Erste Zeile
 ![Agent building a tower](/static/bild.png)
