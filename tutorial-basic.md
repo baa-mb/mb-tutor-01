@@ -18,7 +18,7 @@ During an interaction, the step description (all text before the first code bloc
         console.log("alois")
     }
 ``` 
-![Agent building a tower](/static/bild.png)
+![Agent building a tower](/static/mb-tutor-01/bild.png)
 
 ## Step 2
 # Anleitung 
@@ -55,3 +55,10 @@ When developing your new tutorials, it is easiest to first render and view them 
 If you are running the local server, go to ``http://localhost:3232/tutorials`` to render the ``/docs/tutorials.md`` gallery page.
 
 The [pxt checkdocs](/cli/checkdocs) command will compile all the tutorial snippets automatically.
+
+
+#### Metadaten (verwendet für Suche, Rendering)
+
+* for PXT/microbit
+<script src="https://makecode.com/gh-pages-embed.js"></script>
+<script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
