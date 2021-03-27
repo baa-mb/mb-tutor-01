@@ -12,7 +12,7 @@ Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
 
 
 ## Tutorials
-* [tutoial] (/mb-tutor-01/tutorial-basic)
+* [tutorial] (/mb-tutor-01/tutorial-basic)
 
 
 
