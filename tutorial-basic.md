@@ -15,7 +15,7 @@ During an interaction, the step description (all text before the first code bloc
 ``` 
 
 
-## Step 2 @fullscreen
+## Step 2 @showhint
 # Anleitung 
 
 Sehr gut!
