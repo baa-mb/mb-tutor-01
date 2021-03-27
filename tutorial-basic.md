@@ -1,8 +1,13 @@
 # tutorial-basic
 
 
-## Step 1: Make a new variable 
-# Erste Zeile
+## It's time to code! @showhint
+# Überschrift
+Let's get real bright. We're going to make all the lights flash on your board!
+
+
+## Make a new variable 
+# Erste Zeile @showdialog
 ![Agent building a tower](/static/bild.png)
 //@unplugged
 Mit diesem Kurs lernst du, wie du Microbit entdecken kannst!
@@ -15,8 +20,8 @@ During an interaction, the step description (all text before the first code bloc
 ``` 
 
 
-## Step 2
-# Anleitung
+## Step 2 @showhint
+# Anleitung 
 
 Sehr gut!
 
@@ -24,6 +29,4 @@ Sehr gut!
 ## Introduction @unplugged
 
 Have the agent build a tower! Make a command to tell it how many levels to build.
-
 ![Agent building a tower](/static/tutorials/bild.png)
-
