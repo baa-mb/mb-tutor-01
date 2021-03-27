@@ -16,7 +16,7 @@ During an interaction, the step description (all text before the first code bloc
 
 
 ## Step 2
-# Anleitung
+# Anleitung @fullscreen
 
 Sehr gut!
 
@@ -24,6 +24,4 @@ Sehr gut!
 ## Introduction @unplugged
 
 Have the agent build a tower! Make a command to tell it how many levels to build.
-
 ![Agent building a tower](/static/tutorials/bild.png)
-
