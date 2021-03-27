@@ -46,19 +46,3 @@ forever(function() {
 
 
 
-## Testing
-
-If you are writing a third-party tutorial, please see the [User Tutorials](/writing-docs/user-tutorials) documentation for information on how to preview and share your tutorials.
-
-When developing your new tutorials, it is easiest to first render and view them as a markdown documentation page until all steps look OK to you. Going through all the steps several times using the tutorial runner might become quite tedious while developing the tutorial.
-
-If you are running the local server, go to ``http://localhost:3232/tutorials`` to render the ``/docs/tutorials.md`` gallery page.
-
-The [pxt checkdocs](/cli/checkdocs) command will compile all the tutorial snippets automatically.
-
-
-#### Metadaten (verwendet für Suche, Rendering)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script>
-<script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
