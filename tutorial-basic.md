@@ -6,8 +6,8 @@
 Let's get real bright. We're going to make all the lights flash on your board!
 
 
-## Make a new variable 
-# Erste Zeile @showdialog
+## Make a new variable  @showdialog
+# Erste Zeile 
 ![Agent building a tower](/static/bild.png)
 //@unplugged
 Mit diesem Kurs lernst du, wie du Microbit entdecken kannst!
@@ -20,11 +20,12 @@ During an interaction, the step description (all text before the first code bloc
 ``` 
 
 
-## Step 2 @showhint
+## Step 2
 # Anleitung 
 
 Sehr gut!
 
+![bild](/static/tutorials/bild.gif)
 
 ## Introduction @unplugged
 
